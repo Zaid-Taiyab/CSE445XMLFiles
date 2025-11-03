@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotels>
+	
+	<Hotel Rating="4.2">
+		<Name> Westin </Name>
+		<Phone> 480-968-8885 </Phone>
+		<Phone> 800-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 11 </Number>
+			<Street> E.7th St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name> Eastin </Name>
+		<Phone> 481-968-8885 </Phone>
+		<Phone> 801-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 12 </Number>
+			<Street> E.6th St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name> StickInn </Name>
+		<Phone> 310-968-8885 </Phone>
+		<Phone> 999-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 13 </Number>
+			<Street> N.1st St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name> KeyInn </Name>
+		<Phone> 320-968-8885 </Phone>
+		<Phone> 998-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 14 </Number>
+			<Street> S.1st St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name> SouthInn </Name>
+		<Phone> 330-968-8885 </Phone>
+		<Phone> 997-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 15 </Number>
+			<Street> W.1st St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.7">
+		<Name> NorthInn </Name>
+		<Phone> 340-968-8885 </Phone>
+		<Phone> 996-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 16 </Number>
+			<Street> E.1st St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name> NWResidenceInn </Name>
+		<Phone> 350-968-8885 </Phone>
+		<Phone> 995-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 17 </Number>
+			<Street> E.2nd St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name> SpiritInn </Name>
+		<Phone> 360-968-8885 </Phone>
+		<Phone> 994-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 18 </Number>
+			<Street> W.2nd St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name> UnitedInn </Name>
+		<Phone> 370-968-8885 </Phone>
+		<Phone> 993-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 19 </Number>
+			<Street> N.2nd St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name> MexInn </Name>
+		<Phone> 380-968-8885 </Phone>
+		<Phone> 992-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 20 </Number>
+			<Street> N.3rd St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.6">
+		<Name> SpringInn </Name>
+		<Phone> 390-968-8885 </Phone>
+		<Phone> 912-937-8454 </Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number> 21 </Number>
+			<Street> N.5th St </Street>
+			<City> Tempe </City>
+			<State> AZ </State>
+			<Zip> 85281 </Zip>
+		</Address>
+	</Hotel>
+	
+</Hotels>
